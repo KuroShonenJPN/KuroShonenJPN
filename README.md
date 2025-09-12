@@ -1,18 +1,49 @@
-<h1 align="center">Hi 👋, I'm KuroShonen</h1>
-<h3 align="center">A Ex Head admin, modpack developer</h3>
+# Hi 👋, I'm Kuro
 
-- 🔭 I’m currently working on [Crafttale](https://crafttale.eu)
+### 🎮 Modpack Developer | Ex-Head Admin | Tech & Game Enthusiast
 
-- 🌱 I’m currently learning **JAVA**
+---
 
-- 👨‍💻 All of my projects are available at [https://www.curseforge.com/minecraft/modpacks/fenixcraftcz](https://www.curseforge.com/minecraft/modpacks/fenixcraftcz)
+## 👤 About Me
+- 💻 I’m currently working on **Crafttale**  
+- 🌱 I’m currently learning **Java**  
+- 📦 Creator of **[FenixCraftCZ Modpack](https://www.curseforge.com/minecraft/modpacks/fenixcraftcz)**  
+- ✉️ Reach me on [Discord](https://discord.com/users/927209637768495105)  
+- ⚡ Fun fact: I love **Japan, Anime and Asian culture**  
+- 🧑 Real name: **Daniel Koucký** (aka *KuroShonenJPN* / *Kurodanko* / *Kuro*)  
+- 🎂 Age: **24**  
+- 🌍 Nationality: **Czech 🇨🇿**  
 
-- 📫 How to reach me **https://discord.com/users/927209637768495105**
+---
 
-- ⚡ Fun fact **I like Japan,Anime and Asian girl :D**
-- 🤠 Real name: Daniel Koucký
-- 🕵️ Age: 24
-- 🇺🇳 Nationality: Czech(sadly)🇨🇿
+## 🚀 Projects
+- [**FenixCraftCZ**](https://www.curseforge.com/minecraft/modpacks/fenixcraftcz) – A Minecraft modpack combining technology, magic, and exploration.  
+- **Crafttale** – Minecraft-related project I’m currently developing.  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+---
+
+## 🛠️ Languages and Tools
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blender/blender-original.svg" alt="blender" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" alt="unity" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unrealengine/unrealengine-original.svg" alt="unrealengine" width="40" height="40"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+![Kuro's GitHub stats](https://github-readme-stats.vercel.app/api?username=KuroShonenJPN&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KuroShonenJPN&layout=compact&theme=tokyonight)
+
+---
+
+## 🌐 Find Me
+- 💬 Discord: [Click Here](https://discord.com/users/927209637768495105)  
+- 🔗 CurseForge: [FenixCraftCZ](https://www.curseforge.com/minecraft/modpacks/fenixcraftcz)  
+- 📝 SpigotMC: [Profile](https://www.spigotmc.org/members/kuroshonenjpn.1910886/)  
