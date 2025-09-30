@@ -9,16 +9,28 @@
 - 🌱 I’m currently learning **Java**  
 - 📦 Creator of **[FenixCraftCZ Modpack](https://www.curseforge.com/minecraft/modpacks/fenixcraftcz)**  
 - ✉️ Reach me on [Discord](https://discord.com/users/927209637768495105)  
-- ⚡ Fun fact: I love **Japan, Anime and Asian culture**  
+- ⚡ Fun fact: I love **Japan, Anime, and Asian culture**  
 - 🧑 Real name: **Daniel Koucký** (aka *KuroShonenJPN* / *Kurodanko* / *Kuro*)  
 - 🎂 Age: **24**  
-- 🌍 Nationality: **Czech 🇨🇿**  
+- 🌍 Nationality: **Czech 🇨🇿**
+- 🤝 Open to new opportunities in modpack development, Java development, and related fields.  
 
 ---
 
 ## 🚀 Projects
 - [**FenixCraftCZ**](https://www.curseforge.com/minecraft/modpacks/fenixcraftcz) – A Minecraft modpack combining technology, magic, and exploration.  
-- **Crafttale** – Minecraft-related project I’m currently developing.  
+- **Crafttale** – A Minecraft-related project I’m currently developing.  
+
+---
+
+## 🏆 Badges & Achievements
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/DiscordBadges/badges/PNG/Active_Developer.png" alt="Active Developer" width="40" height="40" title="Discord Active Developer"/>
+  <img src="https://cdn.jsdelivr.net/gh/DiscordBadges/badges/PNG/Nitro.png" alt="Nitro" width="40" height="40" title="Discord Nitro"/>
+  <img src="https://cdn.jsdelivr.net/gh/DiscordBadges/badges/PNG/Hypesquad_Bravery.png" alt="Hypesquad Bravery" width="40" height="40" title="Hypesquad Bravery"/>
+  <img src="https://cdn3.emoji.gg/emojis/7026-nitro-style-diamond.png" alt="Nitro Style Diamond" width="40" height="40" title="Nitro Style Diamond"/>
+</p>
 
 ---
 
@@ -29,9 +41,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" alt="unity" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unrealengine/unrealengine-original.svg" alt="unrealengine" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
 </p>
 
 ---
@@ -47,3 +58,5 @@
 - 💬 Discord: [Click Here](https://discord.com/users/927209637768495105)  
 - 🔗 CurseForge: [FenixCraftCZ](https://www.curseforge.com/minecraft/modpacks/fenixcraftcz)  
 - 📝 SpigotMC: [Profile](https://www.spigotmc.org/members/kuroshonenjpn.1910886/)  
+- ▶️ YouTube: [@kuroshonen1](https://www.youtube.com/@kuroshonen1)
+- 📸 Instagram: [@_kurodanko_](https://www.instagram.com/_kurodanko_/)
