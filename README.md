@@ -26,9 +26,9 @@
 ## 🏆 Badges & Achievements
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/DiscordBadges/badges/PNG/Active_Developer.png" alt="Active Developer" width="40" height="40" title="Discord Active Developer"/>
-  <img src="https://cdn.jsdelivr.net/gh/DiscordBadges/badges/PNG/Nitro.png" alt="Nitro" width="40" height="40" title="Discord Nitro"/>
-  <img src="https://cdn.jsdelivr.net/gh/DiscordBadges/badges/PNG/Hypesquad_Bravery.png" alt="Hypesquad Bravery" width="40" height="40" title="Hypesquad Bravery"/>
+  <img src="https://raw.githubusercontent.com/discordbadges/discordbadges/main/assets/active_developer.svg" alt="Active Developer" width="40" height="40" title="Discord Active Developer"/>
+  <img src="https://raw.githubusercontent.com/discordbadges/discordbadges/main/assets/nitro.svg" alt="Nitro" width="40" height="40" title="Discord Nitro"/>
+  <img src="https://raw.githubusercontent.com/discordbadges/discordbadges/main/assets/hypesquad_bravery.svg" alt="Hypesquad Bravery" width="40" height="40" title="Hypesquad Bravery"/>
   <img src="https://cdn3.emoji.gg/emojis/7026-nitro-style-diamond.png" alt="Nitro Style Diamond" width="40" height="40" title="Nitro Style Diamond"/>
 </p>
 
