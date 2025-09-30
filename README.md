@@ -27,8 +27,8 @@
 
 <p align="left">
   <img src="https://img.icons8.com/fluency/48/discord-stuff-badge.png" alt="Discord Staff" width="40" height="40" title="Discord Staff"/>
-  <img src="https://raw.githubusercontent.com/discordbadges/discordbadges/main/assets/active_developer.svg" alt="Active Developer" width="40" height="40" title="Discord Active Developer"/>
-  <img src="https://raw.githubusercontent.com/discordbadges/discordbadges/main/assets/nitro.svg" alt="Nitro" width="40" height="40" title="Discord Nitro"/>
+  <img src="https://img.icons8.com/fluency/96/discord-active-developer-badge.png" alt="Active Developer" width="40" height="40" title="Discord Active Developer"/>
+  <img src="https://cdn3.emoji.gg/emojis/512420-nitro-new-animated.gif" alt="Nitro" width="40" height="40" title="Discord Nitro"/>
   <img src="https://static.wikia.nocookie.net/discord/images/5/5a/Server_Booster_24_Months.png/revision/latest?cb=20240828072304" alt="Nitro Booster" width="40" height="40" title="Discord Nitro Booster"/>
   <img src="https://img.icons8.com/fluency/96/discord-hypesquad-bravery-house-badge.png" alt="Hypesquad Bravery" width="40" height="40" title="Hypesquad Bravery"/>
   <img src="https://cdn3.emoji.gg/emojis/70226-nitro-style-diamond.png" alt="Diamond Nitro Badge" width="40" height="40" title="Diamond Nitro Badge"/>
