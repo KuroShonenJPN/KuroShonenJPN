@@ -52,7 +52,7 @@
 ## GitHub Stats
 
 ![KuroShonenJPN's GitHub Stats](https://img.shields.io/github/stats/KuroShonenJPN?label=Stars&style=social)
-![Top Langs](https://img.shields.io/github/languages/top/KuroShonenJPN?label=Top%20Languages&style=social)
+[![Top Languages](https://sourcegraph.com/search?q=repo:github.com/KuroShonenJPN&patternType=regexp)](https://sourcegraph.com/search)
 ![Contributions](https://img.shields.io/github/commit-activity/m/KuroShonenJPN?label=Contributions&style=social)
 
 ---
