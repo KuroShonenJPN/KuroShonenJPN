@@ -5,8 +5,8 @@
 ---
 
 ## 👤 About Me
-- 💻 I’m currently working on **Crafttale**  
-- 🌱 I’m currently learning **Java**  
+- 💻 I'm currently working on **Crafttale**  
+- 🌱 I'm currently learning **Java**  
 - 📦 Creator of **[FenixCraftCZ Modpack](https://www.curseforge.com/minecraft/modpacks/fenixcraftcz)**  
 - ✉️ Reach me on [Discord](https://discord.com/users/927209637768495105)  
 - ⚡ Fun fact: I love **Japan, Anime, and Asian culture**  
@@ -19,7 +19,7 @@
 
 ## 🚀 Projects
 - [**FenixCraftCZ**](https://www.curseforge.com/minecraft/modpacks/fenixcraftcz) – A Minecraft modpack combining technology, magic, and exploration.  
-- **Crafttale** – A Minecraft-related project I’m currently developing.  
+- **Crafttale** – A Minecraft-related project I'm currently developing.  
 
 ---
 
@@ -50,7 +50,7 @@
 ---
 
 ## 📊 GitHub Stats
-![Kuro's GitHub stats](https://github-readme-stats.vercel.app/api?username=KuroShonenJPN&show_icons=true&theme=tokyonight)
+![Kuro's GitHub stats](https://github-readme-stats.vercel.app/api?username=KuroShonenJPN&show_icons=true&theme=tokyonight&count_private=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KuroShonenJPN&layout=compact&theme=tokyonight)
 
@@ -66,14 +66,14 @@ If you like my work support me ❤️
   </a>
   
   <!-- PayPal - krásný badge přes shields.io -->
-  <a href="https://www.paypal.com/DEJ SEM SVŮJ PAYPAL ODKAZ" target="_blank">
+  <!-- <a href="https://www.paypal.com/DEJ SEM SVŮJ PAYPAL ODKAZ" target="_blank">
     <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal">
-  </a>
+  </a> -->
   
   <!-- Patreon - badge přes shields.io -->
-  <a href="https://www.patreon.com/DEJ SEM SVŮJ PATREON ODKAZ" target="_blank">
+  <!-- <a href="https://www.patreon.com/DEJ SEM SVŮJ PATREON ODKAZ" target="_blank">
     <img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white" alt="Patreon">
-  </a>
+  </a> -->
 </p>
 
 ## 🌐 Find Me
