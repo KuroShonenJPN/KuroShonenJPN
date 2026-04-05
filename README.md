@@ -49,10 +49,11 @@
 
 ---
 
-## 📊 GitHub Stats
-![Kuro's GitHub stats](https://github-readme-stats.vercel.app/api?username=KuroShonenJPN&show_icons=true&theme=tokyonight&count_private=true)
+## GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KuroShonenJPN&layout=compact&theme=tokyonight)
+![KuroShonenJPN's GitHub Stats](https://img.shields.io/github/stats/KuroShonenJPN?label=Stars&style=social)
+![Top Langs](https://img.shields.io/github/languages/top/KuroShonenJPN?label=Top%20Languages&style=social)
+![Contributions](https://img.shields.io/github/commit-activity/m/KuroShonenJPN?label=Contributions&style=social)
 
 ---
 ## ☕ Support Me
