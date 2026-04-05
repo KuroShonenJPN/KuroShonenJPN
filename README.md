@@ -55,9 +55,9 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KuroShonenJPN&layout=compact&theme=tokyonight)
 
 ---
-## ☕ Podpořte mě / Support Me
+## ☕ Support Me
 
-Pokud se vám moje práce líbí, můžete mě podpořit – každá káva pomáhá! ❤️
+If you like my work support me ❤️
 
 <p align="center">
   <!-- Buy Me a Coffee - originální tlačítko -->
