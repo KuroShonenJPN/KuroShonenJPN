@@ -55,6 +55,26 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KuroShonenJPN&layout=compact&theme=tokyonight)
 
 ---
+## ☕ Podpořte mě / Support Me
+
+Pokud se vám moje práce líbí, můžete mě podpořit – každá káva pomáhá! ❤️
+
+<p align="center">
+  <!-- Buy Me a Coffee - originální tlačítko -->
+  <a href="https://buymeacoffee.com/kuroshonenjpn" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="180">
+  </a>
+  
+  <!-- PayPal - krásný badge přes shields.io -->
+  <a href="https://www.paypal.com/DEJ SEM SVŮJ PAYPAL ODKAZ" target="_blank">
+    <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal">
+  </a>
+  
+  <!-- Patreon - badge přes shields.io -->
+  <a href="https://www.patreon.com/DEJ SEM SVŮJ PATREON ODKAZ" target="_blank">
+    <img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white" alt="Patreon">
+  </a>
+</p>
 
 ## 🌐 Find Me
 - 💬 Discord: [Click Here](https://discord.com/users/927209637768495105)  
