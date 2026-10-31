@@ -19,7 +19,7 @@
 
 ## 🚀 Projects
 - [**FenixCraftCZ**](https://www.curseforge.com/minecraft/modpacks/fenixcraftcz) – A Minecraft modpack combining technology, magic, and exploration.  
-- **Crafttale** – A Minecraft-related project I'm currently developing.  
+- [**KuroBot**] - Multi-functional Discord bot
 
 ---
 
